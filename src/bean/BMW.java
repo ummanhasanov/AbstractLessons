@@ -11,6 +11,16 @@ package bean;
 public class BMW extends Car
 {
 
+    public class A
+    {// inner class => daxili class, BMW classinin ixindeki Obyekte aid class
+
+    }
+
+    public static class A1
+    {// nested class => daxili class, BMW classina aid class-dir
+
+    }
+
     @Override
     public void start() {
         System.out.println("BMW start");
