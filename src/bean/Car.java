@@ -8,7 +8,7 @@ package bean;
  *
  * @author Umman Hasan
  */
-public abstract class Car
+public abstract class Car extends Mechanic
 {
 
     public abstract void start(); //abstract method
