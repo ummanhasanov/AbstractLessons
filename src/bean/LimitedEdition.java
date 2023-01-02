@@ -8,7 +8,7 @@ package bean;
  *
  * @author Umman Hasan
  */
-public interface LimitedEdition// marker interface => icinde hecne olmayan sirf 
+public interface LimitedEdition// marker interface (nishan qoyulan )=> icinde hecne olmayan sirf 
         //xususiyyet vermek ucun olan interface-e deyilir
 {
     
